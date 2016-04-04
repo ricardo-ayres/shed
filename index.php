@@ -5,6 +5,7 @@
     
     <link rel="stylesheet" type="text/css" href="desktop.css" />
     <link rel="stylesheet" type="text/css" href="mobile.css" />
+    <link rel="icon"       type="image/ico"    href="favicon.ico" />
 
     <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"> </script> -->
 
