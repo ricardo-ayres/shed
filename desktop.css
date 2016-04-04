@@ -1,0 +1,43 @@
+p { 
+    text-indent: 50px;
+    text-align: justify;
+}
+
+body {
+    margin: 50px;
+    margin-top: 40px;
+    font-family: sans-serif, monospace;
+    font-size: 16px;
+}
+div.math{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+pre.math { 
+    display: inline-block;
+    text-align: left;
+    font-family: Courier, monospace;
+}
+
+.header {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    font-size: 16px;
+    left: 0px;
+    text-indent: 50px;
+    padding: 0px; 
+    text-align: left;
+    width: 100%;
+    background: white;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+}
+
+.footer { 
+    text-align: center;
+    font-size: 80%;
+}      
